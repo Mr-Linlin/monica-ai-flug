@@ -1,0 +1,54 @@
+{
+	"manifest_version": 2,
+	"name": "fiona",
+	"version": "1.0.2",
+	"description": "AI问答",
+	"icons": {
+		"16": "assets/images/logo.png",
+		"48": "assets/images/logo.png",
+		"128": "assets/images/logo.png"
+	},
+	"browser_action": {
+		"default_icon": "assets/images/logo.png",
+		"default_title": "Fiona",
+		"default_popup": "popup.html"
+	},
+	"externally_connectable": {
+		"matches": [
+			"*://*.example.com/*"
+		]
+	},
+	"permissions": [
+		"tabs",
+		"activeTab",
+		"contextMenus",
+		"storage",
+		"declarativeNetRequest",
+		"declarativeNetRequestFeedback",
+		"<all_urls>"
+	],
+	"background": {
+		"scripts": [
+			"js/background.js"
+		]
+	},
+	"content_scripts": [
+		{
+			"matches": [
+				"<all_urls>"
+			],
+			"css": [
+				"css/content.css"
+			],
+			"js": [
+				"js/content.js"
+			],
+			"run_at": "document_end"
+		}
+	],
+	"minimum_chrome_version": "10.0",
+	"web_accessible_resources": [
+		"js/inject.js"
+	],
+	"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

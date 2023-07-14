@@ -1,0 +1,184 @@
+{
+  "id": "3342059",
+  "name": "shop",
+  "font_family": "lin",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "301780",
+      "name": "成功",
+      "font_class": "chenggong",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1279419",
+      "name": "错误",
+      "font_class": "cuowu",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "2076418",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e8cf",
+      "unicode_decimal": 59599
+    },
+    {
+      "icon_id": "4347520",
+      "name": "icon_添加",
+      "font_class": "icon_tianjia",
+      "unicode": "eb89",
+      "unicode_decimal": 60297
+    },
+    {
+      "icon_id": "6185099",
+      "name": "提示",
+      "font_class": "tishi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "7417090",
+      "name": "历史记录",
+      "font_class": "lishijilu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11372665",
+      "name": "复制",
+      "font_class": "fuzhi1",
+      "unicode": "e8b0",
+      "unicode_decimal": 59568
+    },
+    {
+      "icon_id": "34609288",
+      "name": "prompt",
+      "font_class": "prompt",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "739109",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "20009251",
+      "name": "creditcard信用卡",
+      "font_class": "creditcardxinyongka",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "20009295",
+      "name": "sidebar侧边栏",
+      "font_class": "sidebarcebianlan",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "993677",
+      "name": "展开",
+      "font_class": "zhankai3",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5387611",
+      "name": "选择器收起",
+      "font_class": "xuanzeqishouqi",
+      "unicode": "eb14",
+      "unicode_decimal": 60180
+    },
+    {
+      "icon_id": "12719938",
+      "name": "复制",
+      "font_class": "fuzhi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "5387522",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "eaf2",
+      "unicode_decimal": 60146
+    },
+    {
+      "icon_id": "15381",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "1365963",
+      "name": "开关 开",
+      "font_class": "kaiguanclose",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "18170402",
+      "name": "消息,信息",
+      "font_class": "news-info-full",
+      "unicode": "e9b5",
+      "unicode_decimal": 59829
+    },
+    {
+      "icon_id": "376364",
+      "name": "设置",
+      "font_class": "set",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1277990",
+      "name": "展开",
+      "font_class": "zhankai1",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "8949014",
+      "name": "展开",
+      "font_class": "zhankai2",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "8224810",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "309481",
+      "name": "订单-面",
+      "font_class": "dingdanmian",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "6536738",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "14310218",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "fiona_plugin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "watch": "vue-cli-service build --watch",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@microsoft/fetch-event-source": "^2.0.1",
+    "axios": "^0.19.0",
+    "core-js": "^3.8.3",
+    "crypto-js": "^4.0.0",
+    "filemanager-webpack-plugin": "^7.0.0",
+    "highlight.js": "^11.7.0",
+    "iconv-lite": "^0.6.3",
+    "install": "^0.13.0",
+    "js-cookie": "^3.0.1",
+    "js-md5": "^0.7.3",
+    "markdown-it": "^13.0.1",
+    "qrcodejs2": "^0.0.2",
+    "urlencode": "^1.1.0",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "6.2.2",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "terser-webpack-plugin": "^5.3.3",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
